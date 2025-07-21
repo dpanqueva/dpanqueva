@@ -1,16 +1,117 @@
-## Hi there 👋
+# [Diego Alejandro Panqueva Benítez](https://www.linkedin.com/in/diego-alejandro-panqueva-benitez)
 
-<!--
-**dpanqueva/dpanqueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="./assets/banner.jpg" alt="Banner Personalizado" width="600" height="200">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+# Ingeniero de Sistemas | Arquitecto de Software | Especialista Backend
+Ingeniero de Sistemas con más de 13 años de experiencia en desarrollo de software, enfocado en la creación de soluciones escalables y mantenibles mediante microservicios y arquitecturas distribuidas. Domino múltiples lenguajes y frameworks, con un enfoque técnico sólido, visión arquitectónica y orientación a la calidad.
+
+### 🔧 Stack tecnológico
+>Java (Spring Boot, WebFlux, Spring Cloud), PHP (Laravel, Lumen, CodeIgniter), Go, NestJS, Angular
+
+>Bases de datos: MySQL, PostgreSQL, SQL Server, Oracle, MongoDB, Redis
+
+>Mensajería: RabbitMQ, ActiveMQ, Kafka
+
+>DevOps: Jenkins, GitHub Actions, GitLab CI, Bitbucket, SonarQube, Kiuwan
+
+>Contenedores y despliegue: Docker, Kubernetes, OpenShift
+
+>Pruebas unitarias: JUnit, Mockito (Java), PHPUnit (PHP), go test (Go), Jasmine/Karma (Angular)
+
+>Arquitecturas y patrones: Hexagonal (implementada), Limpia (teórica), Fachada, Fábrica, Builder, Observer
+
+### 💼 Habilidades clave:
+Desarrollo de microservicios backend en Java (Spring Boot). 
+Experiencia en proyectos de desarrollo frontend en Angular.
+Experiencia y conocimiento en GO, NestJs y PHP
+Modelado y optimización de bases de datos relacionales y NoSQL.
+Integración de APIs RESTful documentadas con OpenAPI.
+Automatización de pruebas unitarias y buenas prácticas de desarrollo.
+Despliegue y orquestación de servicios con Docker, Kubernetes y OpenShift.
+Mejora de rendimiento, calidad de código (SpotBugs, PMD, SonarQube).
+Trabajo bajo metodologías ágiles (scrum y kanban).
+
+#### 🎯 Enfoque en la entrega de soluciones sólidas, seguras y sostenibles, con arquitectura bien definida, automatización y estándares de calidad.
+
+### Contacto
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diego-alejandro-panqueva-benitez)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/@dpanqueva)
+
+---
+
+## Tecnologías & Herramientas
+#### Programación
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
+![NestJs](https://img.shields.io/badge/-NestJs-black?style=flat-square&logo=nestjs)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+
+
+<!-- Agrega más tecnologías según corresponda -->
+
+#### Frameworks & Otros
+![Java](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot)
+![Java](https://img.shields.io/badge/-WebFlux-black?style=flat-square&logo=springboot)
+![Java](https://img.shields.io/badge/-Vertx-black?style=flat-square&logo=vertx)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![PHP](https://img.shields.io/badge/-Lumen-black?style=flat-square&logo=lumen)
+![PHP](https://img.shields.io/badge/-Codeigniter-black?style=flat-square&logo=codeigniter)
+![PHP](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+
+![MQ](https://img.shields.io/badge/-AMQ-black?style=flat-square&logo=amq)
+![MQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitMq)
+![MQ](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=kafka)
+![BD](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=mysql)
+![BD](https://img.shields.io/badge/-SqlServer-black?style=flat-square&logo=sqlserver)
+![BD](https://img.shields.io/badge/-Postgresql-black?style=flat-square&logo=postgresql)
+![BD](https://img.shields.io/badge/-OracleBD-black?style=flat-square&logo=oracledb)
+![BD](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=mongodb)
+
+<!-- Agrega más frameworks según corresponda -->
+
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![GitActions](https://img.shields.io/badge/-GitActions-black?style=flat-square&logo=git)
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
+![Kibana](https://img.shields.io/badge/-Kibana-black?style=flat-square&logo=kibana)
+![Owasp](https://img.shields.io/badge/-Owasp-black?style=flat-square&logo=owasp)
+![Kiwan](https://img.shields.io/badge/-Kiwan-black?style=flat-square&logo=kiwan)
+![Sonar](https://img.shields.io/badge/-Sonar-black?style=flat-square&logo=sonar)
+
+<!-- Agrega más herramientas según corresponda -->
+
+---
+
+## Canal de YouTube
+### Últimos Videos
+[![Canal de YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](tu-canal-youtube)
+
+#### Playlists Recomendadas
+* [Playlist 1](link-playlist-1)
+* [Playlist 2](link-playlist-2)
+
+---
+
+## Proyectos Destacados
+[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=proyecto-1)](link-proyecto-1)
+[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=proyecto-2)](link-proyecto-2)
+
+---
+
+## Estadísticas de GitHub
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## Certificados y Logros
+[![Certificado 1](certificado-1-url)](certificado-1-url)
+[![Certificado 2](certificado-2-url)](certificado-2-url)
+
+---
+
+## Contribuciones Mensuales
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tu-usuario&bg_color=ffffff&color=000000&line=000000&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
