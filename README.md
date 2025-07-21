@@ -37,7 +37,7 @@ Trabajo bajo metodologías ágiles (scrum y kanban).
 
 ### Contacto
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diego-alejandro-panqueva-benitez)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/@dpanqueva)
+
 
 ---
 
@@ -45,7 +45,7 @@ Trabajo bajo metodologías ágiles (scrum y kanban).
 #### Programación
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
-![NestJs](https://img.shields.io/badge/-NestJs-black?style=flat-square&logo=nestjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 
 
@@ -56,6 +56,7 @@ Trabajo bajo metodologías ágiles (scrum y kanban).
 ![Java](https://img.shields.io/badge/-WebFlux-black?style=flat-square&logo=springboot)
 ![Java](https://img.shields.io/badge/-Vertx-black?style=flat-square&logo=vertx)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![NestJs](https://img.shields.io/badge/-NestJs-black?style=flat-square&logo=nestjs)
 ![PHP](https://img.shields.io/badge/-Lumen-black?style=flat-square&logo=lumen)
 ![PHP](https://img.shields.io/badge/-Codeigniter-black?style=flat-square&logo=codeigniter)
 ![PHP](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
@@ -88,17 +89,20 @@ Trabajo bajo metodologías ágiles (scrum y kanban).
 
 ## Canal de YouTube
 ### Últimos Videos
-[![Canal de YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](tu-canal-youtube)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/@dpanqueva)
 
 #### Playlists Recomendadas
-* [Playlist 1](link-playlist-1)
-* [Playlist 2](link-playlist-2)
+* [SpringBoot - Jwt](https://www.youtube.com/watch?v=0Sxk7tBxQIg&list=PL384UpGXoZmFMdYtKn9jgFbef3IB_ZzER)
+
 
 ---
 
 ## Proyectos Destacados
-[![Proyecto 1](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=proyecto-1)](link-proyecto-1)
-[![Proyecto 2](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=proyecto-2)](link-proyecto-2)
+[![spring-boot-proyecto-integrador](https://github-readme-stats.vercel.app/api/pin/?username=dpanqueva&repo=proyecto-integrador)](https://github.com/dpanqueva/proyecto-integrador)
+[![spring-boot-pvp-mcsv](https://github-readme-stats.vercel.app/api/pin/?username=dpanqueva&repo=pvp-mcsv)](https://github.com/dpanqueva/pvp-mcsv)
+[![Angular-invexdijin](https://github-readme-stats.vercel.app/api/pin/?username=dpanqueva&repo=personal-history-app)](https://github.com/dpanqueva/personal-history-app)
+[![spring-boot-invexdijin](https://github-readme-stats.vercel.app/api/pin/?username=dpanqueva&repo=bd-transaction)](https://github.com/dpanqueva/bd-transaction)
+[![spring-boot-invexdijin](https://github-readme-stats.vercel.app/api/pin/?username=dpanqueva&repo=admin-redis-info-payment)](https://github.com/dpanqueva/admin-redis-info-payment)
 
 ---
 
