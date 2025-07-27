@@ -103,6 +103,7 @@ Trabajo bajo metodologías ágiles (scrum y kanban).
 [![Angular-invexdijin](https://github-readme-stats.vercel.app/api/pin/?username=dpanqueva&repo=personal-history-app)](https://github.com/dpanqueva/personal-history-app)
 [![spring-boot-invexdijin](https://github-readme-stats.vercel.app/api/pin/?username=dpanqueva&repo=bd-transaction)](https://github.com/dpanqueva/bd-transaction)
 [![spring-boot-invexdijin](https://github-readme-stats.vercel.app/api/pin/?username=dpanqueva&repo=admin-redis-info-payment)](https://github.com/dpanqueva/admin-redis-info-payment)
+[![spring-boot-deploy-kubernetes](https://github-readme-stats.vercel.app/api/pin/?username=dpanqueva&repo=projections)](https://github.com/dpanqueva/projections)
 
 ---
 
